@@ -10,16 +10,5 @@ MindRead is a smart **Emotion Detection Web App** that reads human emotions from
 - **AI Models:** DeepFace (Emotion), HuggingFace (Sentiment)
 - **Languages:** Python, JavaScript
 
----
 
-## ⚙️ How to Run
 
-### 🖥 Backend
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn app:app --reload
-
----
-
-## 💫 Made with ❤️ by [Srija Chinthakunta](https://github.com/siri240807)
